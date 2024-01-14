@@ -38,7 +38,6 @@ package_name = "hpp_model"
 project_name = "hpp_model"
 kedro_init_version = "0.19.1"
 tools = ['Linting', 'Testing', 'Custom Logging', 'Documentation', 'Data Structure', 'PySpark', 'Kedro Viz']
-example_pipeline = "True"
 source_dir = "src"
 
 [tool.pytest.ini_options]
